@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anuraaga Nath</h1>
 <h3 align="center">Leveraging Data Science to get every insights</h3>
-<image src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" align="right" width="480">
+<image src="https://images.squarespace-cdn.com/content/574faff6f8baf35e5da43485/1504710009065-AT3D2U3AU5704B2VD24R/Data-Inspect.gif?content-type=image%2Fgif" align="right" width="480">
 
 
 - 🔭 My recent project [Project PredthePrice](https://github.com/AnuraagaNath/Project-PredthePrice)
