@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anuraaga Nath</h1>
 <h3 align="center">Leveraging Data Science to get every insights</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN0MzdlOHR3MDlib29kdmp0aHN1bjBobmtvc2dteGU0bHIyNTZ4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuraaganath" alt="anuraaganath" /></a> </p>
+
 
 - 🔭 My recent project [Project PredthePrice](https://github.com/AnuraagaNath/Project-PredthePrice)
 
