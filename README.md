@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **anuraaga.oct15@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vSVDFGtV3wMhzzos0x1-vlH03kOaboW0mjaNKyOJnpBfHZ6iAy6JuU8asukv-8OKZTuib7iAxy3UfsW/pub](https://docs.google.com/document/d/e/2PACX-1vSVDFGtV3wMhzzos0x1-vlH03kOaboW0mjaNKyOJnpBfHZ6iAy6JuU8asukv-8OKZTuib7iAxy3UfsW/pub)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/e/2PACX-1vSVDFGtV3wMhzzos0x1-vlH03kOaboW0mjaNKyOJnpBfHZ6iAy6JuU8asukv-8OKZTuib7iAxy3UfsW/pub)
 
 - ⚡ Fun fact **I love to learn new things**
 
